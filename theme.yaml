@@ -1,8 +1,8 @@
 name: 'Viking v1'
-description: 'VisualX''s First OctoberCMS Theme'
+description: 'VisualX''s First OctoberCMS Theme created with Bootstrap 5.2.2'
 author: 'Niels van den Dries'
 homepage: 'https://visualx.nl/'
 authorCode: NielsVanDenDries
-code: NielsVanDenDries.viking.v1
+code: '449762_695575'
 parent: ''
 database: '0'
