@@ -96,6 +96,7 @@ body {
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
+  background-attachment: fixed;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -3040,6 +3041,7 @@ textarea.form-control-lg {
   /* Add the blur effect */
   /* filter: blur(8px); */
   /* -webkit-filter: blur(8px); */
+  background-attachment: fixed;
 }
 
 .valid-feedback {
@@ -8668,7 +8670,7 @@ fieldset:disabled .btn {
 
 .my-5 {
   margin-top: 3rem !important;
-  margin-bottom: 3rem !important;
+  // margin-bottom: 3rem !important;
 }
 
 .my-auto {
