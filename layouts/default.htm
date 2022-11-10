@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{ 'assets/vendor/bootstrap/css/bootstrap.css'|theme }}" rel="stylesheet">
+    <title>Viking V1</title>
+</head>
+<body class="viking">
+    <header>
+        <div>
+            {% partial "header" %}
+        </div>
+    </header>
+    <main>
+        <div>
+            {% page %}
+        </div>
+    </main>
+    <footer>
+        <div>
+            {% partial "footer" %}
+        </div>
+    </footer>
+
+    <script src="{{ [
+        '@framework.extras',
+        'assets/vendor/bootstrap/js/bootstrap.bundle.js'
+    ]|theme }}"></script>
+
+</body>
+</html>

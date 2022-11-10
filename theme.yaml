@@ -1,0 +1,8 @@
+name: 'Viking v1'
+description: 'My First OctoberCMS Theme'
+author: 'Niels van den Dries'
+homepage: 'https://visualx.nl/'
+authorCode: NielsVanDenDries
+code: NielsVanDenDries.viking.v1
+parent: ''
+database: '0'
