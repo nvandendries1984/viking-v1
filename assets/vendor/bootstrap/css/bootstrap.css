@@ -374,14 +374,22 @@ label {
 
 button {
   border-radius: 0;
+  transform: skewX(-5deg);
 }
 
 button:focus:not(:focus-visible) {
   outline: 0;
+  transform: skewX(-5deg);
 }
 
-input,
-button,
+input {
+  transform: skewX(-5deg);
+}
+
+button {
+  transform: skewX(-5deg);
+}
+
 select,
 optgroup,
 textarea {
@@ -394,6 +402,7 @@ textarea {
 button,
 select {
   text-transform: none;
+  transform: skewX(-5deg);
 }
 
 [role=button] {
