@@ -1,3 +1,5 @@
+// code is written specifically for OmitCentral another project from VisualX.nl
+
 window.onload = getLocation;
 
 var x = document.getElementById("geoloc");
