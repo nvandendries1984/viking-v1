@@ -1,4 +1,3 @@
-# viking-v1
 <p align="center">
 	<img src="https://visualx.nl/storage/app/media/VisualX.png" >
 </p>

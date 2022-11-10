@@ -1,4 +1,5 @@
 // code is written specifically for OmitCentral another project from VisualX.nl
+// For more info please visit visualx.nl and contact me.
 
 window.onload = getLocation;
 
