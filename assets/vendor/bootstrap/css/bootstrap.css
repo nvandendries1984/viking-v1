@@ -8192,6 +8192,10 @@ fieldset:disabled .btn {
   right: 100% !important;
 }
 
+.transparant {
+  background: rgba(0, 0, 0, 0.8);
+}
+
 .translate-middle {
   transform: translate(-50%, -50%) !important;
 }

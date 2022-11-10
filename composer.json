@@ -1,7 +1,7 @@
 {
     "name": "nielsvandendries/nielsvandendries.viking.v1-theme",
     "type": "october-theme",
-    "description": "My First OctoberCMS Theme",
+    "description": "VisualX's First OctoberCMS Theme",
     "require": {
         "composer/installers": "~1.0"
     }
