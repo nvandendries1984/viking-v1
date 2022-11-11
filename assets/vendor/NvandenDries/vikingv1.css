@@ -74,7 +74,7 @@
 }
 
 body {
-  background-image: url(../../../images/vikingv1.webp);
+  background-image: url(../../images/vikingv1.webp);
   background-attachment: fixed;
   color: var(--bs-gray-300);
 }
