@@ -76,6 +76,7 @@
 body {
   background-image: url(../../images/vikingv1.webp);
   background-attachment: fixed;
+  background-size: cover;
   color: var(--bs-gray-300);
 }
 
