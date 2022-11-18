@@ -4,15 +4,20 @@
 	<img src="https://img.shields.io/badge/version-1.0.3-green" alt="versionshield">
 </p>
 
-Dit is dus mijn eerste theme gemaakt voor OctoberCMS met Octobercms v2.
+Dit is dus mijn eerste theme gemaakt voor OctoberCMS.
+inmiddels heb ik de compatibiliteit kunnen bevestigen voor V1 en V3,
+Daarbij zijn alle versies niet compatible
 De basis is bootstrap versie 5.2.2.
 
 Thema files zijn te vinden op https://github.com/codeskullz/viking-v1
 Mag je vragen hebben post dan een github issue en ik zal je zo snel mogelijk beantwoorden
 
---
+---
 
-So this is my first theme made for OctoberCMS with Octobercms v2.
+So this is my first theme made for OctoberCMS.
+meanwhile I have been able to confirm compatibility for V1 and V3,
+All versions are therefore compatible
+
 The base is bootstrap version 5.2.2.
 
 Theme files can be found at https://github.com/codeskullz/viking-v1
