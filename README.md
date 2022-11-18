@@ -6,7 +6,7 @@
 
 Dit is dus mijn eerste theme gemaakt voor OctoberCMS.
 inmiddels heb ik de compatibiliteit kunnen bevestigen voor V1 en V3,
-Daarbij zijn alle versies niet compatible
+Daarbij zijn alle versies nu compatible
 De basis is bootstrap versie 5.2.2.
 
 Thema files zijn te vinden op https://github.com/codeskullz/viking-v1
