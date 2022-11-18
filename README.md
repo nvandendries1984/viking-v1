@@ -21,3 +21,4 @@ If you have any questions, post a github issue and I'll answer you as soon as po
 v1.0.1: Theme initialization<br>
 v1.0.2: Geolocation.js added including the partial<br>
 v1.0.3: change the css files to be able to make theme specific changes to a separate css file, create pages for showcasing<br>
+v1.0.4: Bootstrap Icons updated to v1.10.2<br>
