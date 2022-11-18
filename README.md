@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="https://visualx.nl/storage/app/media/VisualX.png" >
-	<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?style=flat-square?targetUrl=https%3A%2F%2Fdevelopment.nvandendries.nl%2F">
+	<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fdevelopment.nvandendries.nl%2F">
 	<img src="https://img.shields.io/badge/version-1.0.4-green?style=flat-square" alt="versionshield">
 </p>
 
