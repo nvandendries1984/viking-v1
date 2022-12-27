@@ -7,7 +7,7 @@
 Dit is dus mijn eerste theme gemaakt voor OctoberCMS.
 inmiddels heb ik de compatibiliteit kunnen bevestigen voor V1 en V3,
 Daarbij zijn alle versies nu compatible
-De basis is bootstrap versie 5.2.2.
+De basis is bootstrap versie v5.3.0-alpha1.
 
 Thema files zijn te vinden op https://github.com/codeskullz/viking-v1
 Mag je vragen hebben post dan een github issue en ik zal je zo snel mogelijk beantwoorden
@@ -18,7 +18,7 @@ So this is my first theme made for OctoberCMS.
 meanwhile I have been able to confirm compatibility for V1 and V3,
 All versions are therefore compatible
 
-The base is bootstrap version 5.2.2.
+The base is bootstrap version v5.3.0-alpha1.
 
 Theme files can be found at https://github.com/codeskullz/viking-v1
 If you have any questions, post a github issue and I'll answer you as soon as possible
