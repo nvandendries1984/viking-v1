@@ -1,7 +1,7 @@
 {
     "name": "nielsvandendries/449762_695575-theme",
     "type": "october-theme",
-    "description": "VisualX's First OctoberCMS Theme created with Bootstrap v5.3.0-alpha1",
+    "description": "NvandenDries.dev First OctoberCMS Theme created with Bootstrap v5.3.3",
     "require": {
         "composer/installers": "~1.0"
     }
